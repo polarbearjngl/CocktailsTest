@@ -1,0 +1,15 @@
+{
+    "required": [
+        "drinks"
+    ],
+    "type": "object",
+    "properties": {
+        "drinks": {
+            "type": "array",
+            "items": {
+                "$ref": "DrinkResponse.json#"
+            }
+        }
+    },
+    "$schema": "http://json-schema.org/schema#"
+}

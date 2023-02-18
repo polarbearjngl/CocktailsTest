@@ -1,0 +1,168 @@
+{
+    "required": [
+        "strDrink",
+        "strTags",
+        "strCategory",
+        "strAlcoholic",
+        "strGlass",
+        "strInstructions",
+        "strIngredient1",
+        "strMeasure1",
+        "strCreativeCommonsConfirmed",
+        "dateModified"
+    ],
+    "type": "object",
+    "properties": {
+        "strDrink": {
+            "type": [ "string", "null" ]
+        },
+        "strDrinkAlternative": {
+            "type": [ "string", "null" ]
+        },
+        "strTags": {
+            "type": [ "string", "null" ]
+        },
+        "strVideo": {
+            "type": [ "string", "null" ]
+        },
+        "strCategory": {
+            "type": [ "string", "null" ]
+        },
+        "strIBA": {
+            "type": [ "string", "null" ]
+        },
+        "strAlcoholic": {
+            "type": [ "string", "null" ]
+        },
+        "strGlass": {
+            "type": [ "string", "null" ]
+        },
+        "strInstructions": {
+            "type": [ "string", "null" ]
+        },
+        "strInstructionsES": {
+            "type": [ "string", "null" ]
+        },
+        "strInstructionsDE": {
+            "type": [ "string", "null" ]
+        },
+        "strInstructionsFR": {
+            "type": [ "string", "null" ]
+        },
+        "strInstructionsIT": {
+            "type": [ "string", "null" ]
+        },
+        "strInstructionsZHHANS": {
+            "type": [ "string", "null" ]
+        },
+        "strInstructionsZHHANT": {
+            "type": [ "string", "null" ]
+        },
+        "strDrinkThumb": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient1": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient2": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient3": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient4": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient5": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient6": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient7": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient8": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient9": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient10": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient11": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient12": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient13": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient14": {
+            "type": [ "string", "null" ]
+        },
+        "strIngredient15": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure1": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure2": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure3": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure4": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure5": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure6": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure7": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure8": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure9": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure10": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure11": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure12": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure13": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure14": {
+            "type": [ "string", "null" ]
+        },
+        "strMeasure15": {
+            "type": [ "string", "null" ]
+        },
+        "strImageSource": {
+            "type": [ "string", "null" ]
+        },
+        "strImageAttribution": {
+            "type": [ "string", "null" ]
+        },
+        "strCreativeCommonsConfirmed": {
+            "type": [ "string", "null" ]
+        },
+        "dateModified": {
+            "type": [ "string", "null" ]
+        }
+    },
+    "$schema": "http://json-schema.org/schema#"
+}

@@ -1,0 +1,5 @@
+{
+    "startUrl": "http://www.thecocktaildb.com",
+    "apiUrl": "/api/json/v1/1",
+    "searchEndpoint": "/search.php"
+}
