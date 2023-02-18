@@ -20,7 +20,16 @@ dotnet test CocktailsTests.csproj
 cd PathToDirWhere `allure-results` directoryIsPlaced
 allure serve ./allure-results/
 ```
-* Check pre-generated [allure-report](allure-report-example.html) of Cocktails Test. Need to open in Browser after cloning the repo
+* Download and check pre-generated [allure-report](https://disk.yandex.ru/d/ZrBYWWJb7Kbh2g) of Cocktails Test. Need to open in Browser after downloading from Cloud Storage
+
+<details>
+<summary>Preview of Allure report (Click to expand)</summary>
+<p>
+    <img src="/preview/Screenshot_1.png" width="640" height="320" />
+    <img src="/preview/Screenshot_2.png" width="640" height="320" />
+    <img src="/preview/Screenshot_3.png" width="640" height="320" />
+</p>
+</details>
 
 ### Tests Cases
 #### Ingredients search
